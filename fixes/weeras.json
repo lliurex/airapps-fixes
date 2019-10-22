@@ -1,0 +1,16 @@
+{
+	"generate-desktop":false,
+	"postinst":
+		{
+			"/usr/share/applications/com.weeras.weeras.desktop":
+			{
+				"Exec=(?P<EXEC>.*)":"Exec=DESKTOP_SESSION=gnome \\g<EXEC>",
+				"--append":[
+						"Comment[es]=Gestiona tu comunidad educativa\n",
+						"Comment[ca_ES@valencia]=Gestiona la teua comunitat educativa\n",
+						"Comment[ca_ES.UTF-8@valencia]=Gestiona la teua comunitat educativa\n",
+						"Comment[ca_ES]=Gestiona la teva comunitat educativa\n"
+				]
+			}
+		}
+}
