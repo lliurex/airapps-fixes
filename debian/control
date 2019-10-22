@@ -1,0 +1,13 @@
+Source: airapps-fixes
+Section: x11
+Priority: optional
+Maintainer: LliureX Team <lliurex@gva.es>
+Build-Depends: cdbs, debhelper (>= 7)
+Standards-Version: 3.8.4
+
+Package: airapps-fixes
+Architecture: all
+Section: x11
+Description: Fixes for air applications
+ This package constains fixes for issues with some air apps
+ 
