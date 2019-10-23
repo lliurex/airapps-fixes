@@ -4,7 +4,7 @@
 		{
 			"/usr/share/applications/com.weeras.weeras.desktop":
 			{
-				"Exec=(?P<EXEC>.*)":"Exec=DESKTOP_SESSION=gnome \\g<EXEC>",
+				"Exec=(?P<EXEC>.*)":"Exec=sh -c \"DESKTOP_SESSION=gnome \\g<EXEC>\"",
 				"--append":[
 						"Comment[es]=Gestiona tu comunidad educativa\n",
 						"Comment[ca_ES@valencia]=Gestiona la teua comunitat educativa\n",
