@@ -1,3 +1,9 @@
+airapps-fixes (0.1.1) xenial; urgency=medium
+
+  * Fix weeras desktop
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 23 Oct 2019 08:50:36 +0200
+
 airapps-fixes (0.1) xenial; urgency=medium
 
   * Initial release.
