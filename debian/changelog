@@ -1,3 +1,9 @@
+airapps-fixes (0.1.1) bionic; urgency=medium
+
+  * Fix weeras desktop
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 23 Oct 2019 08:55:34 +0200
+
 airapps-fixes (0.1) bionic; urgency=medium
 
   * Initial release.
