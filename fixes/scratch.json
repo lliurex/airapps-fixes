@@ -5,11 +5,11 @@
 			"/usr/share/applications/Scratch-latest.desktop":
 			{
 				"Exec=(?P<EXEC>.*)":"Exec=env http_proxy='' \\g<EXEC>",
-				"Icon=.*":"Icon=scrath2-latest",
+				"Icon=.*":"Icon=scrath2",
 				"--append":[
-						"Name[es]=Scratch offline, programación visual\n",
-						"Name[ca_ES@valencia]=Scratch offline, programació visual\n",
-						"Name[ca_ES.UTF-8@valencia]=Scratch offline, programació visual\n"
+						"Name[es]=Scratch 2 offline, programación visual\n",
+						"Name[ca_ES@valencia]=Scratch 2 offline, programació visual\n",
+						"Name[ca_ES.UTF-8@valencia]=Scratch 2 offline, programació visual\n"
 				]
 			}
 		},
