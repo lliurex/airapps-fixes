@@ -1,3 +1,9 @@
+airapps-fixes (0.2.1) bionic; urgency=medium
+
+  * Fix typo on scratch2 fix
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 27 Nov 2019 10:09:30 +0100
+
 airapps-fixes (0.2) bionic; urgency=medium
 
   * Add scratch2 fix
