@@ -1,3 +1,9 @@
+airapps-fixes (0.2.2) bionic; urgency=medium
+
+  * Add conflicts to control
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 12 Feb 2020 10:29:23 +0100
+
 airapps-fixes (0.2.1) bionic; urgency=medium
 
   * Fix typo on scratch2 fix

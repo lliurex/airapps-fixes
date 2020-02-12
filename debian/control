@@ -9,6 +9,7 @@ Package: airapps-fixes
 Architecture: all
 Section: x11
 Replaces: zero-lliurex-scratch2(<<0.2.5)
+Conflicts: zero-lliurex-scratch2(<<0.2.5)
 Breaks: zero-lliurex-scratch2(<<0.2.5)
 Description: Fixes for air applications
  This package constains fixes for issues with some air apps
