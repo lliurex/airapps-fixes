@@ -1,4 +1,4 @@
-airapps-fixes (0.2.3) bionic; urgency=medium
+airapps-fixes (0.2.4) bionic; urgency=medium
 
   * Fixed control file. Added conflicts with zero-lliurex-scratch
 
